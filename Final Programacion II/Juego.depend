@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1475893289 source:c:\users\de la torre\desktop\nacho programacion\final programacion ii\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475893290 c:\users\de la torre\desktop\nacho programacion\final programacion ii\inicia.h
+
+1517431246 source:c:\users\de la torre\desktop\nacho programacion\final programacion ii\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<stdio.h>
+	<iostream>
+	"Jugador.h"
+	"Rectangulo.h"
+	"Npc.h"
+	"Espada.h"
+
+1517430963 source:c:\users\de la torre\desktop\nacho programacion\final programacion ii\src\jugador.cpp
+	"Jugador.h"
+
+1517080502 c:\users\de la torre\desktop\nacho programacion\final programacion ii\include\jugador.h
+	"allegro.h"
+	<iostream>
+	"Rectangulo.h"
+
+1516314764 source:c:\users\de la torre\desktop\nacho programacion\final programacion ii\src\rectangulo.cpp
+	"Rectangulo.h"
+
+1516835002 c:\users\de la torre\desktop\nacho programacion\final programacion ii\include\rectangulo.h
+
+1517431020 source:c:\users\de la torre\desktop\nacho programacion\final programacion ii\src\npc.cpp
+	"Npc.h"
+
+1516947736 c:\users\de la torre\desktop\nacho programacion\final programacion ii\include\npc.h
+	"allegro.h"
+
+1517084175 source:c:\users\de la torre\desktop\nacho programacion\final programacion ii\src\espada.cpp
+	"Espada.h"
+
+1517082650 c:\users\de la torre\desktop\nacho programacion\final programacion ii\include\espada.h
+	"allegro.h"
+	"Jugador.h"
+	"Rectangulo.h"
+
